@@ -81,7 +81,7 @@ The confusion matrix shows minimal misclassification, indicating that the model 
 
 📁 How to Run
 Make sure you have Python installed along with the required libraries. Then simply run the script:
-python iris_decision_tree.py
+<pre><code>```bash # Run the Python script python iris_decision_tree.py ```</code></pre>
 
 📬 Contact
 If you're a fellow student or beginner in ML and want to discuss or collaborate, feel free to connect!
