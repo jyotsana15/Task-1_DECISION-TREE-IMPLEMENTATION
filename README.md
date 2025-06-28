@@ -79,6 +79,8 @@ The tree visualization clearly shows how the data splits based on feature thresh
 
 The confusion matrix shows minimal misclassification, indicating that the model performed well.
 
+![Image](https://github.com/user-attachments/assets/d10ccc88-a823-4062-91c1-a4027d0937a6)
+
 📁 How to Run
 Make sure you have Python installed along with the required libraries. Then simply run the script:
 <pre><code>```bash # Run the Python script python iris_decision_tree.py ```</code></pre>
